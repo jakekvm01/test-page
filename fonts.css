@@ -2,6 +2,7 @@
 
 @font-face {
     font-family: 'sansationregular';
+    src: url('./fonts/');
     src: url('sansation_regular-webfont.eot');
     src: url('sansation_regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('sansation_regular-webfont.woff2') format('woff2'),
