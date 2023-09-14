@@ -1,16 +1,17 @@
 
 @font-face {
-    font-family: 'gputeksregular';
+    font-family: 'creato_displaylight';
      src: url('./fonts/');
-    src: url('./fonts/gputeksregular-pzer-webfont.eot');
-    src: local('gputeksregular'), local('gputeksregular-pzer-webfont'),
-         url('./fonts/gputeksregular-pzer-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/gputeksregular-pzer-webfont.woff') format('woff'),
-         url('./fonts/gputeksregular-pzer-webfont.woff2') format('woff2'),
-         url('./fonts/gputeksregular-pzer-webfont.ttf') format('truetype');
+    src: url('./fonts/creatodisplay-light-webfont.eot');
+    src: local('creato_displaylight'), local('creatodisplay-light-webfont'),
+         url('./fonts/creatodisplay-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/creatodisplay-light-webfont.woff') format('woff'),
+         url('./fonts/creatodisplay-light-webfont.woff2') format('woff2'),
+         url('./fonts/creatodisplay-light-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
 }
+
 
 
