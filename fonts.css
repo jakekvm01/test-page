@@ -15,7 +15,6 @@
 
 @font-face {
     font-family: 'creato_displaylight';
-     src: url('./fonts/');
     src: url('./fonts/creatodisplay-bold-webfont.eot');
     src: local('creato_displaylight'), local('creatodisplay-bold-webfont'),
          url('./fonts/creatodisplay-bold-webfont.eot?#iefix') format('embedded-opentype'),
