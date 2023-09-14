@@ -28,13 +28,14 @@
     font-family: 'creato';
     src: url('./fonts/creatodisplay-medium-webfont.eot');
     src: local('creato'), local('creatodisplay-medium-webfont'),
-         url('./fonts/creatodisplay-medium-webfont') format('embedded-opentype'),
-         url('./fonts/creatodisplay-medium-webfont') format('woff'),
+         url('./fonts/creatodisplay-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/creatodisplay-medium-webfont'.woff) format('woff'),
          url('./fonts/creatodisplay-medium-webfont.woff2') format('woff2'),
          url('./fonts/creatodisplay-medium-webfont.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
+
 
 
 
