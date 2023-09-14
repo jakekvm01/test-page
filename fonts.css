@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'sansation';
-    src: url('./fonts/sansation_light-webfont.eot');
-    src: local('sansation'), local('sansation_italic-webfont'),
-         url('./fonts/sansation_light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/sansation_light-webfont.woff') format('woff'),
-         url('./fonts/sansation_light-webfont.woff2') format('woff2'),
-         url('./fonts/sansation_light-webfont.ttf') format('truetype');
-    font-weight: 100;
+    font-family: 'volunmo';
+    src: url('./fonts/volunmo-x3wkr-webfont');
+    src: local('volunmo'), local('volunmo-x3wkr-webfont'),
+         url('./fonts/volunmo-x3wkr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/volunmo-x3wkr-webfont.woff') format('woff'),
+         url('./fonts/volunmo-x3wkr-webfont.woff2') format('woff2'),
+         url('./fonts/volunmo-x3wkr-webfont.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
 
-}
 
+}
