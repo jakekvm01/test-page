@@ -1,9 +1,9 @@
 
 @font-face {
-    font-family: 'creato_displaylight';
+    font-family: 'creato';
      src: url('./fonts/');
     src: url('./fonts/creatodisplay-light-webfont.eot');
-    src: local('creato_displaylight'), local('creatodisplay-light-webfont'),
+    src: local('creato'), local('creatodisplay-light-webfont'),
          url('./fonts/creatodisplay-light-webfont.eot?#iefix') format('embedded-opentype'),
          url('./fonts/creatodisplay-light-webfont.woff') format('woff'),
          url('./fonts/creatodisplay-light-webfont.woff2') format('woff2'),
