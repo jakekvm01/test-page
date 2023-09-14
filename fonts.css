@@ -7,7 +7,7 @@
          url('./fonts/roseauslab-free-webfont.woff') format('woff'),
          url('./fonts/roseauslab-free-webfont.woff2') format('woff2'),
          url('./fonts/roseauslab-free-webfont.ttf') format('truetype');
-    font-weight: thin;
+    font-weight: normal;
     font-style: normal;
 }
 
