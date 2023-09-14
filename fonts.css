@@ -13,18 +13,7 @@
 
 }
 
-@font-face {
-    font-family: 'creato_displaylight';
-    src: url('./fonts/creatodisplay-bold-webfont.eot');
-    src: local('creato_displaylight'), local('creatodisplay-bold-webfont'),
-         url('./fonts/creatodisplay-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/creatodisplay-bold-webfont.woff') format('woff'),
-         url('./fonts/creatodisplay-bold-webfont.woff2') format('woff2'),
-         url('./fonts/creatodisplay-bold-webfont.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
 
-}
 
 
 
