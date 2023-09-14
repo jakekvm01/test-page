@@ -1,14 +1,13 @@
 @font-face {
-    font-family: 'volunmo';
+    font-family: 'roseau_slab';
     src: url('./fonts/');
-    src: url('./fonts/volunmo-x3wkr-webfont.eot');
-    src: local('volunmo'), local('volunmo-x3wkr-webfont'),
-         url('./fonts/volunmo-x3wkr-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/volunmo-x3wkr-webfont.woff') format('woff'),
-         url('./fonts/volunmo-x3wkr-webfont.woff2') format('woff2'),
-         url('./fonts/volunmo-x3wkr-webfont.ttf') format('truetype');
+    src: url('./fonts/roseauslab-free-webfont.eot');
+    src: local('roseau_slab'), local('roseauslab-free-webfont'),
+         url('./fonts/roseauslab-free-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/roseauslab-free-webfont.woff') format('woff'),
+         url('./fonts/roseauslab-free-webfont.woff2') format('woff2'),
+         url('./fonts/roseauslab-free-webfont.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
-
-
 }
+
