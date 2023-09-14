@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'volunmo';
-    src: url('./fonts/volunmo-x3wkr-webfont');
+    src: url('./fonts/');
+    src: url('./fonts/volunmo-x3wkr-webfont.eot');
     src: local('volunmo'), local('volunmo-x3wkr-webfont'),
          url('./fonts/volunmo-x3wkr-webfont.eot?#iefix') format('embedded-opentype'),
          url('./fonts/volunmo-x3wkr-webfont.woff') format('woff'),
